@@ -1,0 +1,4 @@
+{
+  "test_vector.py::test_scallar_product": true,
+  "test_vector.py::test_vector_norm": true
+}
